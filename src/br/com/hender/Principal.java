@@ -2,9 +2,9 @@ package br.com.hender;
 
 public class Principal {
   public static void main(String[] args) {
-    String nome = "Hender";
+    //String nome = "Hender";
     double salario = 1890.00;
-    int numeroDependentes = 2;
+    //int numeroDependentes = 2;
     boolean isento = false;
 
     if (salario > 2200  && !isento) {
